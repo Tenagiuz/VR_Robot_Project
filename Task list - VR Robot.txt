@@ -1,0 +1,30 @@
+Task list:
+
+Robot con sensori di prossimità/sensori sonori:
+- Progettazione completa a livello concettuale del robot;
+- Implementazione del metodo Sense();
+- Implementazione del metodo Think() in Prolog;
+- Implementazione del metodo Act();
+- Modello del Robot;
+- Suoni del Robot;
+
+Robot con sensore di colore:
+Da vedere a fine lavoro mandando email a De Gasperis
+
+Torre 1/2/3/4/5/6:
+- Progettazione completa a livello concettuale della torre;
+- Implementazione del metodo Sense();
+- Implementazione del metodo Think() in Prolog;
+- Implementazione del metodo Act();
+- Modello della Torre;
+- Suoni della Torre;
+- Effetto grafico abbinato alla logica della torre (sparo, rallentamento, etc)
+
+Meccaniche di gioco/Altro:
+- Sistema dei crediti con cui acquistare torri presi dalle kill
+- Spawn dei nemici in punti random del perimetro circolare di gioco
+- Combat System (vita dei nemici, vita delle torri, distruzione dei nemici, distruzione delle torri, effetti di crowd control se ce ne sono,
+hitbox varie etc)
+- UI fissa in un punto dove poter guardare i suddetti crediti e altre info di gioco (#nemiciuccisi, #torripiazzate, tempo trascorso, punteggio..)
+- Menu iniziale di gioco molto semplice con tasti Gioca, Info ed Esci
+- Musica di sottofondo (royalty free su internet, mi raccomando)
