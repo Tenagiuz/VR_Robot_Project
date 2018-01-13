@@ -53,7 +53,7 @@
        }
 	   
 	   
+	// è un possibile modo; non so se è giusto; non ho modo di provarlo.   
 	   
 	   
-	   
-	   // https://answers.unity.com/questions/1154536/killed-enemies-counter.html
+	   // dove le ho trovate; https://answers.unity.com/questions/1154536/killed-enemies-counter.html
